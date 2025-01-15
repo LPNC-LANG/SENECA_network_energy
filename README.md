@@ -1,2 +1,2 @@
-Functions to compute whole-brain and subnetwork energy from a fully-weighted, signed, unthresholded connectivity matrix
-Original code is available in R at: https://github.com/majidsaberi/NetEnergyCogControl
+Functions to compute whole-brain, network, and region energy from a fully-weighted, signed, unthresholded connectivity matrix
+The main brain energy function was derived from R code available at: https://github.com/majidsaberi/NetEnergyCogControl
